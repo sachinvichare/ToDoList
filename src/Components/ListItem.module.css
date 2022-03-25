@@ -1,0 +1,15 @@
+.listWarp {
+    display: flex;
+}
+
+.rightSide {
+    width: "25%";
+}
+
+.leftSide {
+    width: 75%;
+} 
+
+.AiFillStarcolor {
+    color : red
+}
